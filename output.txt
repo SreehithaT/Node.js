@@ -1,0 +1,1 @@
+Initially this file is empty. This content is being written from NodeJS_Challenge_Day2.js file
